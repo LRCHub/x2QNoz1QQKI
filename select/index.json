@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "base_track": "中国女 (2018 Bob Ludwig Remastering)",
+  "base_artist": "Yellow Magic Orchestra",
+  "createdAt": "2026-03-27T12:40:35.129267Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "中国女",
+      "artist": "Yellow Magic Orchestra",
+      "has_synced": false,
+      "path": "select/01_中国女_Yellow_Magic_Orchestra.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "中国女 (2018 Bob Ludwig Remastering)",
+      "artist": "YELLOW MAGIC ORCHESTRA",
+      "has_synced": false,
+      "path": "select/02_中国女_(2018_Bob_Ludwig_Remastering)_YELLOW_MAGIC_ORCHESTRA.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "La Femme Chinoise 中国女",
+      "artist": "Yellow Magic Orchestra",
+      "has_synced": false,
+      "path": "select/03_La_Femme_Chinoise_中国女_Yellow_Magic_Orchestra.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "La Femme Chinoise = 中国女",
+      "artist": "Yellow Magic Orchestra",
+      "has_synced": true,
+      "path": "select/04_La_Femme_Chinoise_=_中国女_Yellow_Magic_Orchestra.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "LA FEMME CHINOISE⁄中国女",
+      "artist": "Yellow Magic Orchestra",
+      "has_synced": true,
+      "path": "select/05_LA_FEMME_CHINOISE⁄中国女_Yellow_Magic_Orchestra.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "LA FEMME CHINOISE / 中国女",
+      "artist": "Yellow Magic Orchestra",
+      "has_synced": true,
+      "path": "select/06_LA_FEMME_CHINOISE___中国女_Yellow_Magic_Orchestra.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "中国女/LA FEMME CHINOISE (ACOUSTIC VERSION)",
+      "artist": "YMO",
+      "has_synced": false,
+      "path": "select/07_中国女_LA_FEMME_CHINOISE_(ACOUSTIC_VERSION)_YMO.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "中国女/LA FEMME CHINOISE (ACOUSTIC VERSION)",
+      "artist": "Yellow Magic Orchestra",
+      "has_synced": false,
+      "path": "select/08_中国女_LA_FEMME_CHINOISE_(ACOUSTIC_VERSION)_Yellow_Magic_Orchestra.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "La Femme Chinoise (中国女)",
+      "artist": "Yellow Magic Orchestra",
+      "has_synced": false,
+      "path": "select/09_La_Femme_Chinoise_(中国女)_Yellow_Magic_Orchestra.txt"
+    }
+  ]
+}
