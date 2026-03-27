@@ -1,0 +1,23 @@
+# Yellow Magic Orchestra – 中国女 (2018 Bob Ludwig Remastering)
+
+> **歌詞登録ステータス：同期歌詞あり**
+
+```lrc
+[03:55.08] Fu Manchu and Susie Que
+[03:58.24] And the girls of the floating world
+[04:02.22] Just sails on a yellow sea
+[04:04.75] For Susie Wong and Shanghai dolls
+[04:08.70] Susie can soothe
+[04:12.88] Away all your blues
+[04:15.78] She's the mistress
+[04:18.92] The scent of the Orient
+[04:59.23] Fu Manchu and Susie Que
+[05:02.42] And the girls of the floating world
+[05:05.32] Just sails on a yellow sea
+[05:08.59] For Susie Wong and Shanghai dolls
+[05:12.62] Susie can soothe
+[05:16.23] Away all your blues
+[05:19.47] She's the mistress
+[05:22.75] The scent of the Orient
+[05:28.43] Orient
+```
